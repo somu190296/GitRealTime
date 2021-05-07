@@ -24,4 +24,13 @@ public class First {
     private void method6() {
        System.out.println("mtd6");
 	}
+    private void method7() {
+		System.out.println("mtd7");
+	}
+    private void method8() {
+		System.out.println("mtd7");
+	}
+    private void method9() {
+		System.out.println("mtd8");
+	}
 }
