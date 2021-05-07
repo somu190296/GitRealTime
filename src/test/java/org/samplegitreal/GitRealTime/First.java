@@ -25,14 +25,25 @@ public class First {
        System.out.println("mtd6");
 	}
     private void method10() {
-		System.out.println("mtd10");	
-		}
-    private void method11() {
-		System.out.println("mtd11");
+  		System.out.println("mtd10");	
+  		}
+      private void method11() {
+  		System.out.println("mtd11");
 
+  	}
+      private void method12() {
+  		System.out.println("mtd12");
+      }
+    private void method7() {
+		System.out.println("mtd7");
 	}
-    private void method12() {
-		System.out.println("mtd12");
+    private void method8() {
+		System.out.println("mtd7");
+	}
+    private void method9() {
+		System.out.println("mtd8");
+
+  
 
 	}
 }
