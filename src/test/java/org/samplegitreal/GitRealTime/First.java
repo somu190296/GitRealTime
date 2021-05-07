@@ -15,5 +15,13 @@ public class First {
 
 	}
 	
-
+    private void method4() {
+       System.out.println("mtd4");
+	}
+    private void method5() {
+       System.out.println("mtd5");
+	}
+    private void method6() {
+       System.out.println("mtd6");
+	}
 }
